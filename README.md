@@ -50,3 +50,15 @@
 - post: '/api/woodpecker'
 - put: '/api/tapeworm/:id'
 - delete: '/api/vulture/:id'
+
+### data
+```js
+{
+    id,
+    name,
+    campus,
+    role,
+    wins,
+    losses;
+}
+```
